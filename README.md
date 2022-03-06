@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sani Safiyanu  
-- 👀 I’m interested in data driven decision making for process engineering 
-- 🌱 I’m currently learning predictive maintenance and energy systems modelling
-- 💞️ I’m looking to collaborate on these type of problems
+- 👀 I’m interested in data driven decision making 
 - 📫 You can reach me on ssafiyanu45@gmail.com
 
 <!---
